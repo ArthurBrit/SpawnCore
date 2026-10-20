@@ -34,12 +34,12 @@
 
 ### Sessão 1.1 — Preparar a máquina e o primeiro commit
 
-- [ ] Instalar o Git e configurar nome e e-mail (`git config --global user.name` / `user.email`).
-- [ ] Instalar o **nvm** e, com ele, o Node.js LTS (`nvm install --lts`).
-- [ ] Instalar o VS Code (ou o editor que preferir).
-- [ ] Dentro de `~/Documentos/projeto-servidores`, rodar `git init`.
-- [ ] Criar `docs/DIARIO.md` com a primeira entrada.
-- [ ] Criar um `.gitignore` com `node_modules/` e `.env`.
+- [X] Instalar o Git e configurar nome e e-mail (`git config --global user.name` / `user.email`).
+- [X] Instalar o **nvm** e, com ele, o Node.js LTS (`nvm install --lts`).
+- [X] Instalar o VS Code (ou o editor que preferir).
+- [X] Dentro de `~/Documentos/projeto-servidores`, rodar `git init`.
+- [X] Criar `docs/DIARIO.md` com a primeira entrada.
+- [X] Criar um `.gitignore` com `node_modules/` e `.env`.
 
 **Pronto quando:** `node --version`, `npm --version` e `git --version` mostram versões, e `git log` mostra seu primeiro commit.
 
