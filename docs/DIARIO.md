@@ -24,4 +24,4 @@
   * os comandos basicos de busca do linux
   * criptografia de pastas
 * **Desafio:**
-  * Utilizamos o chmod 755 para dar permissão de leitura escrita e execução ao arquivo no qual queriamos abrir, que anteriormente negava nosso acesso por falta dessas permissões.
+  * Utilizamos o chmod 755 para dar as permissoẽs de leitura escrita e execução ao Dono no qual queriamos abrir.
