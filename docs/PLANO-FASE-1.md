@@ -53,10 +53,10 @@
 
 Aprender a se mover pelo sistema sem interface gráfica. É a base de tudo em infraestrutura.
 
-- [ ] Praticar: `pwd`, `ls -la`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `less`, `grep`, `find`, `chmod`, `ps`, `top`, `man`.
-- [ ] Entender permissões de arquivo (`rwx`, dono, grupo) e o que o `sudo` faz.
-- [ ] Jogar o **OverTheWire Bandit** do nível 0 ao 5 (é um jogo de terminal via SSH).
-- [ ] Anotar no diário os comandos novos que você aprendeu e para que servem.
+- [x] Praticar: `pwd`, `ls -la`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `less`, `grep`, `find`, `chmod`, `ps`, `top`, `man`.
+- [x] Entender permissões de arquivo (`rwx`, dono, grupo) e o que o `sudo` faz.
+- [x] Jogar o **OverTheWire Bandit** do nível 0 ao 5 (é um jogo de terminal via SSH).
+- [x] Anotar no diário os comandos novos que você aprendeu e para que servem.
 
 **Pronto quando:** você passou do nível 5 do Bandit e consegue explicar o que `chmod 755 arquivo` faz.
 
