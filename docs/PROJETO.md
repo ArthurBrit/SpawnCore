@@ -1,6 +1,6 @@
-# Painel de Servidores — Documento do Projeto
+# SpawnCore — Documento do Projeto
 
-> Nome provisório. Criado em 19/10/2026.
+> Plataforma de hospedagem e gerenciamento de servidores de jogo. Criado em 19/10/2026; nome definido em 22/10/2026.
 
 ## 1. Por que este projeto existe
 

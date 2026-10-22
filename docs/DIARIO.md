@@ -25,3 +25,12 @@
   * criptografia de pastas
 * **Desafio:**
   * Utilizamos o chmod 755 para dar as permissoẽs de leitura escrita e execução ao Dono no qual queriamos abrir.
+
+## 22/10/2026 — Sessão 1.3
+
+* **Meta:** Publicar o projeto no GitHub e praticar git brach e merge
+* **Fiz:** Criei o repositorio no Github, fiz os desafios do learn git, defini o nome do projeto
+* **Travou:**
+  * Na criação da chave pulei a parte de definição da senha, mas consegui consertar, tive dificuldade de entender alguns comandos, não os comandos em si, mas as ramificações de um mesmo comando ex: -c -C -h e afins...
+* **Aprendi:**
+  * Como cria chave pessoal e a chave publica; como conectar o git com o github pelo terminal; diferentes explicações para git branch, git merge e git commit.
