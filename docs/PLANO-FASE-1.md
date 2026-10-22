@@ -68,12 +68,12 @@ Aprender a se mover pelo sistema sem interface gráfica. É a base de tudo em in
 
 ### Sessão 1.3 — Git de verdade e GitHub
 
-- [ ] Fazer a trilha **"Introduction Sequence"** do Learn Git Branching (tem português).
-- [ ] Entender: commit, branch, merge, `git status`, `git diff`, `git log --oneline`.
-- [ ] Criar uma conta no GitHub (se não tiver) e configurar uma chave SSH.
-- [ ] Criar o repositório público e fazer `git push`.
-- [ ] Escrever um `README.md` curto: o que é o projeto, a stack, o status ("Fase 1 em andamento") e um link para `docs/PROJETO.md`.
-- [ ] Praticar o fluxo com branch: criar `git switch -c docs/readme`, commitar o README, voltar para a `main` e fazer o merge.
+- [x] Fazer a trilha **"Introduction Sequence"** do Learn Git Branching (tem português).
+- [x] Entender: commit, branch, merge, `git status`, `git diff`, `git log --oneline`.
+- [x] Criar uma conta no GitHub (se não tiver) e configurar uma chave SSH.
+- [x] Criar o repositório público e fazer `git push`.
+- [x] Escrever um `README.md` curto: o que é o projeto, a stack, o status ("Fase 1 em andamento") e um link para `docs/PROJETO.md`.
+- [x] Praticar o fluxo com branch: criar `git switch -c docs/readme`, commitar o README, voltar para a `main` e fazer o merge.
 
 **Pronto quando:** o repositório aparece no GitHub com o README renderizado e o `git log --oneline --graph` mostra o merge.
 
