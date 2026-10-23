@@ -30,3 +30,4 @@ O objetivo inicial é desenvolver um script em TypeScript capaz de iniciar e des
 Para conhecer a arquitetura, as funcionalidades planejadas, as decisões técnicas e as etapas de desenvolvimento, consulte a documentação completa.
 
 📄 [Documento do projeto](docs/PROJETO.md)
+
